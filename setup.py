@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'MultiFunctionRunner',         
   packages = ['MultiFunctionRunner'],   
-  version = '1.0.5',      
+  version = '1.0.6',      
   license='MIT',        
   description = 'A simple library for Python to run multiple functions in a lambda function.',   
   author = 'Tejas',
@@ -11,7 +11,7 @@ setup(
   long_description_content_type="text/markdown",
   author_email = 'help.a.helpcenter@gmail.com',      
   url = 'https://github.com/avibhardwaj233/MultiFunctionRunner',   
-  download_url = 'https://github.com/avibhardwaj233/MultiFunctionRunner/archive/refs/tags/1.0.5.tar.gz',    
+  download_url = 'https://github.com/avibhardwaj233/MultiFunctionRunner/archive/refs/tags/1.0.6.tar.gz',    
   keywords = ['Function', 'Multi Function runner', 'Multi function', 'Function runner'],   
   install_requires=[],
 
