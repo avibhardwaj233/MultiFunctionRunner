@@ -11,7 +11,7 @@ setup(
   long_description_content_type="text/markdown",
   author_email = 'help.a.helpcenter@gmail.com',      
   url = 'https://github.com/avibhardwaj233/MultiFunctionRunner',   
-  download_url = 'https://github.com/avibhardwaj233/Multi-Function-Runner/archive/refs/tags/1.0.4.tar.gz',    
+  download_url = 'https://github.com/avibhardwaj233/MultiFunctionRunner/archive/refs/tags/1.0.4.tar.gz',    
   keywords = ['Function', 'Multi Function runner', 'Multi function', 'Function runner'],   
   install_requires=[],
 
