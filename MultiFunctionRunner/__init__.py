@@ -1,4 +1,4 @@
-def multiFunctionRun2(functionsListToRun, argumentsToPass=None):
+def multiFunctionRun(functionsListToRun, argumentsToPass=None):
 	if (argumentsToPass == None):
 		for func in functionsListToRun:
 			func()
